@@ -1,4 +1,4 @@
-#Ms. Longoria (she/her)
+# Ms. Longoria (she/her)
 
 Born and raised in Houston, Texas, yeehaw. 🤠 🐮 🐐
 CS is the best class, but my favorite CS class in university was a cryptography course I took.
